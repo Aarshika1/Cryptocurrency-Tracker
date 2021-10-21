@@ -1,7 +1,7 @@
 # Track your Cryptocurrency
 
 ## Website: 
-
+https://cryptotracker-aasingh.netlify.app/
 ## Available Scripts
 
 In the project directory, you can run:
